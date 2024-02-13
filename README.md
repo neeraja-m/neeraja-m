@@ -2,7 +2,7 @@
 
 🎓 Final year Master's student in Computer Science with a specialisation in Artificial Intelligence.
 
-🌟 Passionate about exploring the realms of Machine Learning and Software Development, most specifically about frontend development and creating engaging user interfaces.
+🌟 Passionate about exploring the realms of Machine Learning and Software Development, more specifically about frontend development and creating engaging user interfaces.
 
 💻 Proficient in Python, JavaScript (React, Vue, and Node), Java, Flutter, HTML & CSS.
 
