@@ -10,7 +10,7 @@
 
 📊 Skilled in data processing and analysis using Tableau and Excel.
 
-🌐 Most passionate about frontend development and creating engaging user interfaces
+🌐 Most passionate about frontend development and creating engaging user interfaces.
 
 🚀 Open to collaborations and exploring new opportunities in the tech industry.
 
