@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Neeraja 👋
 
-<!--
-**neeraja-m/neeraja-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Master's student in Computer Science with a specialisation in Artificial Intelligence.
 
-Here are some ideas to get you started:
+🌟 Passionate about exploring the realms of Machine Learning and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in Python, JavaScript (React, Vue, and Node), Java, Flutter, HTML & CSS.
+
+🔬 Experienced in utilising PyTorch and TensorFlow for building and deploying ML models.
+
+📊 Skilled in data processing and analysis using Tableau and Excel.
+
+🌐 Most passionate about frontend development and creating engaging user interfaces
+
+🚀 Open to collaborations and exploring new opportunities in the tech industry.
+
