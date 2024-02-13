@@ -1,4 +1,4 @@
-### Hi there, I'm Neeraja 👋
+### Hi, I'm Neeraja 👋
 
 🎓 Final year Master's student in Computer Science with a specialisation in Artificial Intelligence.
 
